@@ -31,4 +31,5 @@ echo OPAM list
 opam list
 
 # run the commands to build from here
+git clone https://github.com/ocaml/opam-repository.git
 make production
