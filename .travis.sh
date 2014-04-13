@@ -31,4 +31,4 @@ echo OPAM list
 opam list
 
 # run the commands to build from here
-make
+make production
